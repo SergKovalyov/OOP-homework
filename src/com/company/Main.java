@@ -20,5 +20,6 @@ public class Main {
 */
         System.out.println(object1.toTalk());
         System.out.println(object2.toTalk());
+
     }
 }
